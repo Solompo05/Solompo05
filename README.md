@@ -1,4 +1,4 @@
-#  Olá! Eu sou o *Solompo05*! Bem-vindo(a) ao meu GitHub!
+#  Olá! Eu sou o *Gabriel Slompo*! Bem-vindo(a) ao meu GitHub!
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE5aDRndzFvZnAydjliN2JpN3oxc2YxdndwdnF3bXBobXExbmFncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu7B5XKE6NsE8/giphy.gif" alt="meme_aleatorio" width="300"/>
